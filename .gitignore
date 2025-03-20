@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+.editorconfig
+
+.vsconfig
+
+shadertoolsconfig.json
